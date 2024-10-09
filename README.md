@@ -8,4 +8,4 @@ A simple web application that allows users to search for food recipes by name. U
 - HTML, CSS, JavaScript.
 - Fetch API.
 ## Project Demo Link 
-- Click here to view the demo of the project
+- Click here https://dilipbist.github.io/Food_Recipes_Website/  to view the demo of the project
